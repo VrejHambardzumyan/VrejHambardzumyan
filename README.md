@@ -46,11 +46,11 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 
 ###
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="49%" />
+  <div style="width: 48%;"> <!-- Adjust width to fit side-by-side properly -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" style="width: 100%;" />
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <div style="width: 48%; text-align: right;"> <!-- Align second box to the right -->
+    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" style="width: 100%;" />
   </div>
 </div>
 
