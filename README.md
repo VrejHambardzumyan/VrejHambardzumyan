@@ -45,12 +45,12 @@
 ###
 
 ###
-<div style="display: flex; flex-direction: row; gap: 16px; justify-content: center; align-items: flex-start; width: 100%; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
-  <div style="width: 47%; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="100%" style="max-width: 350px;" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <div style="max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="400px" />
   </div>
-  <div style="width: 47%; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="100%" style="max-width: 350px;" />
+  <div style="max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="400px" />
   </div>
 </div>
 
