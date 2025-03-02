@@ -1,6 +1,6 @@
-<h3 align="left">Hi 👋! My name is Vrej Hambardzumyan<br><br>
+<h2 align="left">Hi 👋! My name is Vrej Hambardzumyan<br><br></h2>
 
-Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in team environments and love turning ideas into efficient systems.<br>I’m eager to grow, learn, and contribute—seeking opportunities to apply my skills and shape the future of technology.</h3>
+<h3>Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in team environments and love turning ideas into efficient systems.<br>I’m eager to grow, learn, and contribute—seeking opportunities to apply my skills and shape the future of technology.</h3>
 
 ###
 
@@ -45,14 +45,12 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 ###
 
 ###
-<div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: flex-start; width: 100%; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="100%" />
+<div style="display: flex; flex-direction: row; gap: 16px; justify-content: center; align-items: flex-start; width: 100%; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+  <div style="width: 47%; min-width: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="100%" style="max-width: 350px;" />
   </div>
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="100%" />
+  <div style="width: 47%; min-width: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="100%" style="max-width: 350px;" />
   </div>
 </div>
-
-
 
