@@ -4,8 +4,6 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 
 ###
 
-
-<br>
 <h3>Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
