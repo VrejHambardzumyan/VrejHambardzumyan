@@ -49,8 +49,5 @@
   <div style="max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="400px" />
   </div>
-  <div style="max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="400px" />
-  </div>
 </div>
 
