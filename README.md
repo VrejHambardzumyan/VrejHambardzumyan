@@ -29,6 +29,7 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 </div>
 
 ###
+<h3>Socials</h3>
 <div style="display: flex; align-items: center;">
   <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.instagram.com/__vrej.04/" target="_blank">
