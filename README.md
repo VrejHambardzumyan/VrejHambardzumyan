@@ -45,15 +45,14 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 ###
 
 ###
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <div style="max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="400px" />
+<div style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: flex-start; width: 100%; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="100%" />
   </div>
-  <div style="max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="400px" />
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="100%" />
   </div>
 </div>
-
 
 
 
