@@ -45,7 +45,7 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
 ###
 
 ###
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="49%" />
   </div>
@@ -53,5 +53,6 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
     <img src="https://github-readme-stats.vercel.app/api?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&count_private=true" width="49%" />
   </div>
 </div>
+
 
 
