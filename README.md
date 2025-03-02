@@ -6,7 +6,7 @@
 
 
 
-<h2>Skills</h2>
+<h3>Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
   <img width="24" />
