@@ -28,8 +28,6 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
-
-<br><br><br>
 ###
 
 <br> 
