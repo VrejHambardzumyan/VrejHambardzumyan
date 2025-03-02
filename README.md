@@ -51,4 +51,7 @@ Passionate Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="400px" />
   </div>
 </div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VrejHmbarzdumyan/VrejHmbarzdumyan/output/snake.svg" alt="Snake animation" />
 
