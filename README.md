@@ -30,7 +30,7 @@
 ###
 <br>
 <br>
-
+<h2>Socials</h2>
 <div style="display: flex; align-items: center;">
   <!-- Social Media Buttons -->
   <div style="display: flex; gap: 10px; align-items: center;">
