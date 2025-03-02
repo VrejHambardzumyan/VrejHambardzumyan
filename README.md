@@ -39,3 +39,7 @@
 </div>
 
 ###
+
+###
+![VrejHambardzumyan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VrejHambardzumyan&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+###
