@@ -5,7 +5,7 @@
 ###
 
 
-
+<br>
 <h3>Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
