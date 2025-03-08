@@ -30,7 +30,14 @@
 
 ###
 <h3>Socials</h3>
- 
+ div style="display: flex; align-items: center;">
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://www.instagram.com/__vrej.04/" target="_blank">
+      <img>src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    </a> src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    </a>
+    <a href="https://discord.com/channels/@me" target="_blank">
+      <img
     <a href="https://www.linkedin.com/in/vrezh-hambardzumyan-0b23b733a/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
