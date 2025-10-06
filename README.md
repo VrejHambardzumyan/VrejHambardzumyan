@@ -1,6 +1,6 @@
 <h2 align="left">Hello! My name is Vrej Hambardzumyan<br></h2>
 
- Software Engineering student at NPUA and 42 Yerevan .<br>I thrive in team environments and love turning ideas into efficient systems.<br>I’m eager to grow, learn, and contribute—seeking opportunities to apply my skills and shape the future of technology.
+ Software Engineering student at NPUA .<br>I thrive in team environments and love turning ideas into efficient systems.<br>I’m eager to grow, learn, and contribute—seeking opportunities to apply my skills and shape the future of technology.
 
 ###
 
